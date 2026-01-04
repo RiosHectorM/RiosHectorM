@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Backend Developer | Go & Python | Focused on logistics and high availability systems
 
 - 📫 How to reach me **rios.hector.martin@gmail.com**
 
